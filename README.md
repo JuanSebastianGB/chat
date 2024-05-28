@@ -113,6 +113,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
+### Simple chat
+
+![simple-chat](https://github.com/JuanSebastianGB/chat/assets/85469830/6cf4031f-d477-45d7-a831-926e8f882e20)
+
+
 ## Acknowledgements
 
 - [Django](https://www.djangoproject.com/)
