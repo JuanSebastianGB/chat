@@ -8,6 +8,10 @@ This application is a real-time chat application built using Django and Django C
 - User authentication and session management
 - Scalable architecture with Django Channels and Redis
 
+### Simple chat
+
+![simple-chat](https://github.com/JuanSebastianGB/chat/assets/85469830/6cf4031f-d477-45d7-a831-926e8f882e20)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
@@ -113,9 +117,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-### Simple chat
 
-![simple-chat](https://github.com/JuanSebastianGB/chat/assets/85469830/6cf4031f-d477-45d7-a831-926e8f882e20)
 
 
 ## Acknowledgements
