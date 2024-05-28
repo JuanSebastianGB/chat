@@ -1,4 +1,7 @@
 from django.urls import path
-from .views import index
+from .views import index, room
 
-urlpatterns = [path("", index, name="index")]
+urlpatterns = [
+    path("", index, name="index"),
+    path("<str:room_name>/", room, name="room"),
+]
